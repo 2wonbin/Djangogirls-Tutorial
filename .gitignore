@@ -321,4 +321,5 @@ fabric.properties
 
 myvenv/
 .idea/
+blog/migrations/
 # End of https://www.toptal.com/developers/gitignore/api/django,python,pycharm
